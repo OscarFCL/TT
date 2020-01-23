@@ -1,0 +1,1211 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"muest",
+				"muetrasB\tabc"
+			],
+			[
+				"pag",
+				"paginasOpinion\tabc"
+			],
+			[
+				"url",
+				"url\tabc"
+			],
+			[
+				"ht",
+				"htmlMisProfes\tabc"
+			],
+			[
+				"dta",
+				"dataPrincipal\tabc"
+			],
+			[
+				"hmt",
+				"htmlMisProfes\tabc"
+			],
+			[
+				"data",
+				"dataPrincipal\tabc"
+			],
+			[
+				"n",
+				"nProfesores\tabc"
+			],
+			[
+				"profe",
+				"profesores\tabc"
+			],
+			[
+				"sou",
+				"soupP\tabc"
+			],
+			[
+				"prof",
+				"profesores\tabc"
+			],
+			[
+				"dat",
+				"dataPrincipal\tabc"
+			],
+			[
+				"req",
+				"reqPrincipal\tabc"
+			],
+			[
+				"pala",
+				"palabrasEtiquetadas\tabc"
+			],
+			[
+				"text",
+				"textoEtiquetado\tabc"
+			],
+			[
+				"pal",
+				"palabra\tabc"
+			],
+			[
+				"opiniones",
+				"opiniones.txt\t(scrap.py)"
+			],
+			[
+				"soup",
+				"soup2\tabc"
+			],
+			[
+				"L",
+				"LOOP_ACYIVE"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"my",
+				"mycolor2"
+			],
+			[
+				"Image",
+				"ImageTk"
+			],
+			[
+				"nod",
+				"nodo2"
+			],
+			[
+				"nodo",
+				"nodo1"
+			],
+			[
+				"v",
+				"vm"
+			],
+			[
+				"ver",
+				"vertex_degree"
+			],
+			[
+				"de",
+				"degree"
+			],
+			[
+				"a",
+				"adj_vertices"
+			],
+			[
+				"gen",
+				"generate_edges"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"list",
+				"lista3"
+			],
+			[
+				"lis",
+				"lista2"
+			],
+			[
+				"tam",
+				"tam"
+			],
+			[
+				"pos",
+				"posib"
+			],
+			[
+				"pr",
+				"prueba"
+			],
+			[
+				"po",
+				"posv"
+			],
+			[
+				"colo",
+				"colores"
+			],
+			[
+				"va",
+				"valsig"
+			],
+			[
+				"r",
+				"r1"
+			],
+			[
+				"vact",
+				"vactual"
+			],
+			[
+				"ti",
+				"tinicial"
+			],
+			[
+				"vor",
+				"vorp"
+			],
+			[
+				"ym",
+				"ymax"
+			],
+			[
+				"y",
+				"ymin"
+			],
+			[
+				"xm",
+				"xmax"
+			],
+			[
+				"x",
+				"xmin"
+			],
+			[
+				"p",
+				"points"
+			],
+			[
+				"saludos",
+				"saludosn"
+			],
+			[
+				"sal",
+				"saludosn"
+			],
+			[
+				"sta",
+				"state_action"
+			],
+			[
+				"on",
+				"observation"
+			],
+			[
+				"eli",
+				"eligibility_trace"
+			],
+			[
+				"q",
+				"q_table"
+			],
+			[
+				"gene",
+				"generacion"
+			],
+			[
+				"to",
+				"tolist"
+			],
+			[
+				"muta",
+				"mutaron"
+			],
+			[
+				"mutacio",
+				"mutaciones"
+			],
+			[
+				"generacion",
+				"generaciones"
+			],
+			[
+				"new",
+				"news"
+			],
+			[
+				"total",
+				"totalaux"
+			],
+			[
+				"df_tab_",
+				"df_tab_aux"
+			],
+			[
+				"df",
+				"df_tab_aux"
+			],
+			[
+				"bin",
+				"bina"
+			],
+			[
+				"rea",
+				"reasignar_vec"
+			],
+			[
+				"n_",
+				"n_var"
+			],
+			[
+				"bina",
+				"binadec"
+			],
+			[
+				"bit",
+				"bit_mutara"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"nv",
+				"nvectores"
+			],
+			[
+				"tota",
+				"total_new_vec"
+			],
+			[
+				"ne",
+				"news_only"
+			],
+			[
+				"vect",
+				"vector_fuerte"
+			],
+			[
+				"por",
+				"porczacum"
+			],
+			[
+				"col",
+				"colaleatorios"
+			],
+			[
+				"acum",
+				"acumz"
+			],
+			[
+				"indivi",
+				"individuos_Dec"
+			],
+			[
+				"db",
+				"db"
+			],
+			[
+				"individuob",
+				"individuob"
+			],
+			[
+				"dec",
+				"decabin"
+			],
+			[
+				"individuos",
+				"individuos_Bin"
+			],
+			[
+				"individuo",
+				"individuoa"
+			],
+			[
+				"in",
+				"individuo"
+			],
+			[
+				"coefi",
+				"coeficientes"
+			],
+			[
+				"li",
+				"linea"
+			],
+			[
+				"lia",
+				"lineas"
+			],
+			[
+				"ar",
+				"archivo"
+			],
+			[
+				"indi",
+				"indiv_aux"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"individuoc",
+				"individuoc"
+			],
+			[
+				"da",
+				"da"
+			],
+			[
+				"agr",
+				"agregarIndividuo"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"con",
+				"condiciones"
+			],
+			[
+				"co",
+				"condiciones"
+			],
+			[
+				"pat",
+				"patron_desi"
+			],
+			[
+				"s",
+				"simplices"
+			],
+			[
+				"tr",
+				"tri"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"pa",
+				"patron_corf"
+			],
+			[
+				"nvar",
+				"n_var"
+			],
+			[
+				"ind",
+				"individuos_dec"
+			],
+			[
+				"vari",
+				"variables"
+			],
+			[
+				"pe",
+				"pendown"
+			],
+			[
+				"pen",
+				"penup"
+			],
+			[
+				"puntos",
+				"puntosPorX"
+			],
+			[
+				"pi",
+				"pibote"
+			],
+			[
+				"pu",
+				"puntos"
+			],
+			[
+				"punt",
+				"puntosPorX"
+			],
+			[
+				"puntosPor",
+				"puntosPorY"
+			],
+			[
+				"pun",
+				"puntosOrd"
+			],
+			[
+				"puntosP",
+				"puntosPorY"
+			],
+			[
+				"puntospo",
+				"puntosPorX"
+			],
+			[
+				"bus",
+				"busqueda_bin"
+			],
+			[
+				"b",
+				"busqueda_bin"
+			],
+			[
+				"def",
+				"definitivo"
+			],
+			[
+				"nu",
+				"nuveoAFD"
+			],
+			[
+				"sim",
+				"simbolo"
+			],
+			[
+				"Au",
+				"Aux"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"A",
+				"Aux1"
+			],
+			[
+				"ini",
+				"indice"
+			],
+			[
+				"M",
+				"M_AFN"
+			],
+			[
+				"Aux",
+				"Aux1"
+			],
+			[
+				"F",
+				"FINAL"
+			],
+			[
+				"se",
+				"set"
+			],
+			[
+				"C",
+				"C_E"
+			],
+			[
+				"si",
+				"simbolo_E"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "DjangoTutorial/mysite/polls/views.py",
+			"settings":
+			{
+				"buffer_size": 800,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/polls/templates/polls/detail.html",
+			"settings":
+			{
+				"buffer_size": 143,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Hola prueba.txt",
+			"file": "/C/Users/Oscar/Desktop/TutorialGit/prueba.txt",
+			"file_size": 15,
+			"file_write_time": 132235867580901221,
+			"settings":
+			{
+				"buffer_size": 15,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Oscar texto. skjagvkld\n2\n5",
+			"file": "/C/Users/Oscar/Desktop/TutorialGit/Oscar.txt",
+			"file_size": 28,
+			"file_write_time": 132235904842839018,
+			"settings":
+			{
+				"buffer_size": 26,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/polls/templates/polls/index.html",
+			"settings":
+			{
+				"buffer_size": 256,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/polls/urls.py",
+			"settings":
+			{
+				"buffer_size": 394,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/mysite/urls.py",
+			"settings":
+			{
+				"buffer_size": 799,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/mysite/settings.py",
+			"settings":
+			{
+				"buffer_size": 3214,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/polls/models.py",
+			"settings":
+			{
+				"buffer_size": 663,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "DjangoTutorial/mysite/polls/admin.py",
+			"settings":
+			{
+				"buffer_size": 93,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/3 - Multiplicación"
+	],
+	"file_history":
+	[
+		"/C/TT/DjangoTutorial/mysite/polls/apps.py",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/3 - Multiplicación/Multiplicacion.c",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/3 - Multiplicación/MultiplicacionX.c",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/2 - Convolución/ConvolucionX.c",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/2 - Convolución/Convolucion.c",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/1 - Volumen/Cabecera.h",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/1 - Volumen/Cabecera.c",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/1 - Volumen/volumenC.c",
+		"/C/GitHub/Teoria-de-Comunicaciones-y-Senales/Prácticas/1 - Volumen/Volumen.c",
+		"/C/GitHub/Python/WebScraping/opiniones.txt",
+		"/C/GitHub/Python/SEL.txt",
+		"/C/GitHub/Python/etiquetadoTextos.py",
+		"/C/GitHub/Python/WebScraping/htmlMisProfes.txt",
+		"/C/GitHub/Python/WebScraping/scrap.py",
+		"/C/Users/Oscar/Downloads/programa7.py",
+		"/C/Users/Oscar/Downloads/programa7_1.py",
+		"/C/Users/Oscar/Documents/IPN/Instrumentacion/Proyecto/GUIProyecto.py",
+		"/C/Users/Oscar/Documents/IPN/Instrumentacion/Proyecto/GUIOroyecto.py",
+		"/C/Users/Oscar/AppData/Roaming/Oracle/MySQL Notifier/settings.config",
+		"/C/Users/Oscar/go/src/hello/hello.go",
+		"/C/Users/Oscar/Documents/GitHub/OpenCV/ImageProcessing/th.txt",
+		"/C/Users/Oscar/Downloads/Sockets/Socket/SocketServidor/src/servidor/Servidor.java",
+		"/C/Users/Oscar/Downloads/socketudp/chuidiang/ejemplos/ServidorUdp.java",
+		"/F/OSKR/Servidor.java",
+		"/C/Users/Oscar/Desktop/TensorFlow/tf1.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/EditDistanceTab.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/triangulacionDelaunay.py",
+		"/C/Users/Oscar/Documents/IPN/Metodos_Cuantitativos/p_gen.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/LadosGrafo.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/NodosAislados.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/GradoVertice.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/AlgoritmoHorner.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/Mochila.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/MochilaDinamic.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/QLearning.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/MergSort.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/EuclidesRecursivo.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/EuclidesIterativo.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/SerieFibonacci.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/SerieFibonacciDinamica.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/SerieFibonacciIterativa.py",
+		"/C/Users/Oscar/Desktop/exam.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/Programas/EditDistance.py",
+		"/C/Users/Oscar/Desktop/x.py",
+		"/C/Users/Oscar/Desktop/y.py",
+		"/C/Users/Oscar/Desktop/z.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Proyecto/puntos.txt",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/auxiliar.py",
+		"/C/Users/Oscar/Desktop/p_gen.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Proyecto/proyecto.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/algoritmos P1 con texto/A5.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/prueba.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/NumPrimos.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/InvLista.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/CoordPrimmcd.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/CoordenadasPrimas.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program/RL_brain.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program/maze_env.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program/run_this.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program_Lambda/RL_brain.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program_Lambda/maze_env.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AR_Expo_Program_Lambda/run_this.py",
+		"/C/Users/Oscar/Desktop/funcion3.txt",
+		"/C/Users/Oscar/Desktop/funcion2.txt",
+		"/C/Users/Oscar/Desktop/funcion.txt",
+		"/C/Users/Oscar/Desktop/p_gen4.py",
+		"/C/Users/Oscar/Desktop/funcion4.txt",
+		"/C/Users/Oscar/Downloads/p_gen.py",
+		"/C/Users/Oscar/Downloads/prueba.py",
+		"/C/Users/Oscar/Downloads/funcion.txt",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/PracticaTriangulación/Practica1triangulacion.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Proyecto/ejemplo.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Practica1/unionPenE3.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Practica1/unionPenE2.py",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/FLEX/ejemplo1.l",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/practica1.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/PracticaTriangulación/puntos.txt",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Practica1/puntos3d.txt",
+		"/C/ProgramData/Microsoft/Windows/WER/ReportArchive/AppCrash_Setup.exe_Andy_c4cd5cf8b63476514d221879ee61da8ce2ba7a_55d7467c_1bec3667/Report.wer",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Practica1.py",
+		"/C/Users/Oscar/Documents/IPN/ComputationalGeometry/Practica2/puntos.txt",
+		"/C/Users/Oscar/Documents/IPN/Computational Geometry/Practica2/puntos.txt",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/NumPrimode CoordPrim.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/ConvertBase.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/AlgoritmoHorner.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/CribaErastotenes.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/CoordPrimMin.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/SerieFibonacci.py",
+		"/C/Users/Oscar/Documents/IPN/Analisis de Algoritmos/BusquedaBin.py",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/prueba.py",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/AFNE.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/definitivo.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/Thompson2.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/Thompson1.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/AFNEaAFD.py",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/AFDX.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/temp.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/AFNaAFD.py",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/4.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/3.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/2.txt",
+		"/C/Users/Oscar/Documents/IPN/Compiladores/1.txt",
+		"/C/Users/Oscar/Documents/IPN/Diseño de Sistemas Digitales/decodificador.vhdl",
+		"/C/Users/Oscar/Documents/IPN/Diseño de Sistemas Digitales/t.vhdl",
+		"/C/Users/Oscar/Documents/IPN/Diseño de Sistemas Digitales/jk.vhdl",
+		"/C/Users/Oscar/Documents/IPN/Diseño de Sistemas Digitales/leds.vhdl",
+		"/C/Users/Oscar/Downloads/teclado.vhd",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/algoritmos P1 con texto/A4.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/algoritmos P1 con texto/A3.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/algoritmos P1 con texto/A5.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/algoritmos P1 con texto/A2.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/algoritmos P1 con texto/A1.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/Practica 1/A1_20m.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/algoritmos P1 con texto/A3 - texto.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/Practica 1/A2_20m.py",
+		"/C/Users/Oscar/Desktop/algoritmos P1 4y5/A4 - archivoPruebastxt.py",
+		"/C/Users/Oscar/Documents/Analisis de Algoritmos/Practica 1/A3.py",
+		"/C/Users/Oscar/Desktop/algoritmos P1 4y5/A4 - archivo.py",
+		"/C/Users/Oscar/version-control/reflections/lesson_q_reflections.txt",
+		"/F/userkey.psw"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "DjangoTutorial/mysite/polls/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								539,
+								539
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "DjangoTutorial/mysite/polls/templates/polls/detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Oscar/Desktop/TutorialGit/prueba.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Oscar/Desktop/TutorialGit/Oscar.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "DjangoTutorial/mysite/polls/templates/polls/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "DjangoTutorial/mysite/polls/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "DjangoTutorial/mysite/mysite/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "DjangoTutorial/mysite/mysite/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1429,
+								1429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 438.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "DjangoTutorial/mysite/polls/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "DjangoTutorial/mysite/polls/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 93,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "DjangoTutorialS.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
